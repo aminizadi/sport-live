@@ -1,0 +1,12 @@
+.btn {
+  background-color: rgb(219, 37, 255);
+  width: max-content;
+  margin: 10px auto;
+  padding: 10px 30px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba($color: #d1d1d1, $alpha: 0.5);
+  a {
+    text-decoration: none;
+    color: #fff;
+  }
+}
